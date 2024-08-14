@@ -1,0 +1,5 @@
+streamlit
+hvac
+boto3
+python-dotenv
+awscli
