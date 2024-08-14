@@ -11,13 +11,13 @@ variable "name" {
 //vault address
 variable "vault_addr" {
   type    = string
-  default = "https://vault-public-vault-568210d2.b06d58cb.z1.hashicorp.cloud:8200"
+  default = "Your HCP endpoint here"
 }
 
 //vault token
 variable "vault_token" {
   type    = string
-  default = "hvs.CAESINz7QQDXDY3xNOUUcGaYpB3OAr8Rw-2m8YyOoVWOlJbWGigKImh2cy40SjlRemkyOWJsdlhVYnhUaHJNdWdrV0guVWhUQTcQ4KA3"
+  default = "your token here"
 }
 
 //bedrock model
