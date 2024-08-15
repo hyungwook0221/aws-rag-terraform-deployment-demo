@@ -10,7 +10,7 @@ This sample application deploys an AI-powered document search using AWS bedrock 
 - Subscription access to Bedrock Foundational Model service. 
 
 - Create an HCP vault dedicated instance and configure the endpoint and token in the `infra/variables.tf` file.
-- Create a Vault transit Engine using the exact process ![here](https://developer.hashicorp.com/vault/tutorials/encryption-as-a-service/eaas-transit?variants=vault-deploy%3Ahcp) 
+- Create a Vault transit Engine using the exact process [here](https://developer.hashicorp.com/vault/tutorials/encryption-as-a-service/eaas-transit?variants=vault-deploy%3Ahcp) 
 - You will need the kubectl tools installed locally on your machine to interact with the EKS cluster.
 
 ## Quickstart
