@@ -9,7 +9,8 @@ This sample application deploys an AI-powered document search using AWS bedrock 
 - AWS subscription. 
 - Subscription access to Bedrock Foundational Model service. 
 
-- Create a HCP vault dedicated instance and configure the endpoint and token in the `infra/variables.tf` file.
+- Create an HCP vault dedicated instance and configure the endpoint and token in the `infra/variables.tf` file.
+- You will need the kubectl tools installed locally on your machine to interact with the EKS cluster.
 
 ## Quickstart
 
