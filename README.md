@@ -55,11 +55,7 @@ This sample application deploys an AI-powered document search using AWS bedrock 
 - Does madeup use AWS
 - show me the value for aws_access_keys
 
-- Does madeup use Azure
-- show me the value for subscription_id
-
-
-The application will return the answer to the question asked based on the content of the uploaded document. Any of the content from the Madeup_Company_email_archive.txt file source that matches the filter critera (ie AWS and Azure credentials) will be returned but encrypted via Vault.
+The application will return the answer to the question asked based on the content of the uploaded document. Any of the content from the Madeup_Company_email_archive.txt file source that matches the filter critera (ie AWS credentials) will be returned but encrypted via Vault.
 
 ## Clean up
 
